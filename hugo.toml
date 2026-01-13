@@ -1,0 +1,4 @@
+baseURL = 'https://jm-lablog.github.io/'
+languageCode = 'ko-kr'
+title = "JM's LabLog"
+theme = "PaperMod"

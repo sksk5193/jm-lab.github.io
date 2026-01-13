@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>JM&#39;s LabLog</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on JM&#39;s LabLog</description>
+    <generator>Hugo -- 0.154.5</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Tue, 13 Jan 2026 21:43:26 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>http://localhost:1313/posts/hello-world/</link>
+      <pubDate>Tue, 13 Jan 2026 21:43:26 +0900</pubDate>
+      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <description>&lt;p&gt;IT 이것저것 실험하고 기록하는 공간&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
